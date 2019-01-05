@@ -1,7 +1,7 @@
 en:
   js:
     adplugin:
-      advertisement_label: 'ADVERTISEMENT'
+      advertisement_label: ''
   admin_js:
     admin:
       site_settings:
